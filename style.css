@@ -83,6 +83,9 @@
     border: 1px solid white;
     margin-left: 16px;
 }
+#home .btn #secend-btn:hover{
+    background-color: #1bce66;
+}
 .secend-home{
     text-align: center;
 }
