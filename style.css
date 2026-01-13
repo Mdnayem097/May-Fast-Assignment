@@ -111,7 +111,9 @@
 }
 .secend-home #notes-chatagori .notes-section i{
     font-size: 60px;
-    padding-bottom: 16px;
+    padding: 16px;
+    background-color: #F95555;
+    border-radius: 50%;
 }
 .secend-home #notes-chatagori .notes-section p{
     font-size: 16px;
