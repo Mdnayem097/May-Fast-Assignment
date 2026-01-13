@@ -32,7 +32,9 @@
     cursor: pointer;
     font-size: 16px;
     border-radius: 5px;
-
+}
+.btn button:hover{
+    background-color: #1bce66;
 }
 #home{
     width: 1600px;
